@@ -36,9 +36,9 @@ const suraj = {
   ],
   background: ["Infosys Springboard AI Virtual Internship", "Cisco AICTE Cybersecurity Internship"],
   stack: ["React", "Node.js", "Express", "MongoDB", "Java Servlets", "Python", "Scikit-learn"],
-  shipped: ["Sanjivani", "TexFolio (Contributor)", "Myntra/Meesho/Razorpay Clones"],
+  shipped: ["Sanjivani", "Myntra/Razorpay Clones"],
   currentFocus: "Full-Stack Job Placements · AI-Powered Web Apps · MERN Mastery",
-  funFact: "Diehard RCB fan 🔴 — Ee Sala Cup Namde!"
+  funFact: "Always up for a good coding challenge!"
 };
 ```
 
@@ -60,22 +60,10 @@ AI/ML based diabetes prediction web app, built as part of IBM SkillsBuild AI Int
 
 ---
 
-### 📄 TexFolio — AI-Powered LaTeX Resume Builder SaaS
-*Contributed seminar report, presentation deck & Hinglish spoken script for project delivery*
-
-- ⚡ Real LaTeX rendering via `pdflatex` (Dockerized)
-- 🤖 LangGraph multi-agent AI coach for ATS scoring & resume generation
-- 🏢 Organizations with RBAC (Owner → Admin → Editor → Viewer)
-
-`LangGraph` `NVIDIA NIM` `React` `MongoDB` `LaTeX`
-
----
-
-### 🛍️ Frontend Clone Projects — Myntra, Meesho & Razorpay
+### 🛍️ Frontend Clone Projects — Myntra & Razorpay
 Pure HTML/CSS pixel-perfect frontend clones — the starting point of my MERN journey
 
 - 🎨 Responsive, production-style UI clones
-- 🔥 Meesho clone post went viral on LinkedIn with high impressions
 - 🧱 Strong foundation in semantic HTML & modern CSS
 
 `HTML5` `CSS3` `Responsive Design`
@@ -122,23 +110,6 @@ Pure HTML/CSS pixel-perfect frontend clones — the starting point of my MERN jo
 
 <div align="center">
 
-### 🔴 Ee Sala Cup Namde! RCB for life 🏏
-
 **Thanks for visiting my profile — let's build something great together!**
 
 </div>
-
-<!--
-**surajrajput999/surajrajput999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
