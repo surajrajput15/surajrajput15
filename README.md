@@ -1,19 +1,8 @@
 <div align="center">
 
-# Hey there! I'm Suraj Bhan Pratap Singh 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=FFA500&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+MERN+Stack;Final+Year+CS+Student+%40+Jagannath+University;Building+Real+Projects%2C+Not+Just+Tutorials)](https://git.io/typing-svg)
 
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" bgcolor="#1a1a1a">
-<h2 style="color:#FFA500;">Suraj Bhan Pratap Singh</h2>
-<p><b>Full-Stack Developer | MERN Stack</b></p>
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FFD700&height=200&section=header&text=Suraj%20Bhan%20Pratap%20Singh&fontSize=45&fontColor=000000&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-FFA500?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/suraj-bhan-pratap-singh-891727293/)
 [![GitHub](https://img.shields.io/badge/GITHUB-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/surajrajput999)
