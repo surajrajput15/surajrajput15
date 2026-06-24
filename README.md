@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FFD700&height=200&section=header&text=Suraj%20Bhan%20Pratap%20Singh&fontSize=45&fontColor=000000&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FFA500?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/suraj-bhan-pratap-singh-891727293/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FFA500?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/suraj-bhan-pratap-singh-891727293)
 [![GitHub](https://img.shields.io/badge/GITHUB-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/surajrajput999)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF8C00?style=for-the-badge&logo=vercel&logoColor=black)](https://surajbhan-15.vercel.app/)
 [![Gmail](https://img.shields.io/badge/GMAIL-FFB347?style=for-the-badge&logo=gmail&logoColor=black)](mailto:surajdona2005@gmail.com)
@@ -46,6 +46,7 @@ AI/ML based diabetes prediction web app, built as part of IBM SkillsBuild AI Int
 `Python` `Scikit-learn` `Streamlit` `Pandas` `NumPy`
 
 [![Source](https://img.shields.io/badge/SOURCE-FFA500?style=flat-square&logo=github&logoColor=black)](https://github.com/surajrajput999/Sanjivani-Diabetes-Predictor)
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-FFD700?style=flat-square&logo=streamlit&logoColor=black)](https://sanjivani-diabetes-predictor-an6yfh5zfnx55h9rqybtjx.streamlit.app/)
 
 ---
 
