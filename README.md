@@ -1,41 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=220&section=header&text=Suraj%20Bhan%20Pratap%20Singh&fontSize=42&fontColor=FFD700&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%2B%20AI&descAlignY=58&descSize=20&descColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:24243e,100:302B63&height=220&section=header&text=Suraj%20Bhan%20Pratap%20Singh&fontSize=42&fontColor=00F5FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI&descAlignY=58&descSize=20&descColor=FF2E9F&animation=fadeIn" width="100%"/>
 
-<a href="https://surajrajput15.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="https://surajrajput15.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 <a href="https://www.linkedin.com/in/suraj-bhan-pratap-singh-891727293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:surajdona2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:surajdona2005@gmail.com"><img src="https://img.shields.io/badge/Email-FF2E9F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/surajrajput999"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=650&lines=Building+production-grade+full-stack+apps;MERN+Stack+%2B+AI-powered+products;Final+Year+CSE+%40+Jagannath+University;Open+to+SDE+%2F+Full-Stack+Roles+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%2B+AI;Building+production-oriented+web+apps;Final+Year+CSE+%40+Jagannath+University;Open+to+SDE+%2F+Full-Stack+Roles+🚀" />
 
 </div>
 
 <br>
 
-## 🟡 About Me
+## 🟣 Summary
 
-```javascript
-const suraj = {
-  role: "Full-Stack Developer & Aspiring SDE",
-  location: "Jaipur, Rajasthan, India 🇮🇳",
-  university: "B.Tech CSE, Jagannath University (2023 – 2027)",
-  stack: {
-    languages: ["JavaScript (ES6+)", "TypeScript", "Python", "SQL"],
-    frontend: ["React.js", "Next.js", "Tailwind CSS", "Material Design 3"],
-    backend: ["Node.js", "Express.js", "Flask", "REST APIs"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    ai: ["Groq API", "Google Gemini API", "Prompt Engineering", "Agentic AI"],
-    cloud: ["IBM Cloud", "Vercel", "Render", "Neon", "Upstash Redis"]
-  },
-  currentFocus: "Cracking full-stack SDE interviews & shipping AI-powered products",
-  funFact: "Debugging a 404 at 2 AM > sleep 😅"
-};
-```
+Full Stack Developer and Computer Science undergraduate building **production-oriented web applications and AI-powered products**. Experienced in full-stack architecture, authentication, REST APIs, cloud deployment, application security, and performance optimization.
+
+📍 Jaipur, Rajasthan &nbsp;|&nbsp; 📞 +91 7209690361 &nbsp;|&nbsp; ✉️ surajdona2005@gmail.com
 
 <br>
 
-## 🚀 Featured Projects
+## 🛠️ Technical Skills
+
+| Category | Stack |
+|---|---|
+| **Languages** | JavaScript (ES6+), TypeScript, Python, SQL |
+| **Frontend** | React.js, Next.js, HTML5, CSS3, Tailwind CSS, Material Design 3 |
+| **Backend** | Node.js, Express.js, Flask, REST APIs |
+| **Databases** | MongoDB, PostgreSQL, MySQL |
+| **AI** | Groq API, Google Gemini API, AI Application Development, Prompt Engineering, Agentic AI |
+| **Cloud** | IBM Cloud, Vercel, Render, Neon, Upstash Redis |
+| **Security** | Clerk, JWT, Google OAuth, Helmet, CORS, Rate Limiting, Cybersecurity Fundamentals |
+| **Tools** | Git, GitHub, Postman, VS Code |
+
+<br>
+
+## 💼 Experience
+
+**Edunet Foundation — AI & Emerging Technologies Intern** `11 May – 21 Jun 2026`
+*AICTE / IBM SkillsBuild*
+- Completed a 6-week internship focused on Artificial Intelligence, Agentic AI, Cloud Computing, Cybersecurity and Quantum Computing, with hands-on exposure to IBM SkillsBuild, IBM Cloud and IBM BOB.
+- Developed an industry-relevant project in Artificial Intelligence and Cloud Computing, applying emerging technology concepts to a practical use case.
+- Gained practical understanding of AI application development, cloud technologies, cybersecurity fundamentals and emerging computing paradigms.
+
+**ApexPlanet Software Pvt. Ltd. — Web Development Intern** `11 Dec 2025 – 24 Jan 2026`
+*Virtual Internship*
+- Completed a project-based internship applying HTML, CSS and JavaScript through practical frontend development work.
+
+<br>
+
+## 🚀 Projects
 
 <table>
 <tr>
@@ -44,11 +59,9 @@ const suraj = {
 ### 🧠 StudySnap
 **AI-Powered Study Platform**
 
-Full-stack platform with rich-text notes, revision scheduling, voice notes, PDF export & PWA support. Groq-powered AI tutoring, summarization, MCQ generation, flashcards and translation.
+Built a full-stack study platform with rich-text notes, revision scheduling, voice notes, PDF export and PWA support. Integrated Groq-powered AI workflows for AI tutoring, summarization, MCQ generation, flashcards and translation through authenticated APIs. Implemented Clerk authentication, Express APIs, Drizzle ORM with Neon PostgreSQL, Zustand persistence, Upstash Redis caching and application security controls.
 
-`Next.js` `TypeScript` `PostgreSQL` `Clerk` `Groq`
-
-[🔗 Live Demo](https://github.com/surajrajput999) · [📂 Source](https://github.com/surajrajput999)
+`Next.js` `React` `TypeScript` `Node.js` `PostgreSQL` `Clerk` `Groq`
 
 </td>
 <td width="50%" valign="top">
@@ -56,33 +69,9 @@ Full-stack platform with rich-text notes, revision scheduling, voice notes, PDF 
 ### 🛍️ Cartify
 **Full-Stack E-Commerce Platform**
 
-Complete e-commerce flow — cart, checkout, orders, admin dashboard. JWT + OTP + Google OAuth auth, Razorpay integration, server-authoritative pricing, rate limiting & Helmet/CORS hardening.
+Developed a full-stack e-commerce platform with product management, cart, checkout, orders, addresses and admin workflows. Implemented JWT, OTP/password authentication, Google OAuth, protected admin routes and Razorpay payment integration. Secured checkout with server-authoritative pricing, payment verification, rate limiting, Helmet, CORS and input validation; improved performance and accessibility with lazy loading, memoization and reusable components.
 
-`React` `Node.js` `Express` `MongoDB` `Razorpay`
-
-[🔗 Live Demo](https://cartifystore.vercel.app/) · [📂 Source](https://github.com/surajrajput999)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🩺 Sanjivani
-**AI Health Prediction App**
-
-ML-based diabetes risk prediction built during the IBM SkillsBuild AI internship, with a clean interactive Streamlit UI, deployed live.
-
-`Python` `Scikit-learn` `Streamlit` `Pandas`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Frontend Clones
-**Myntra & Razorpay UI**
-
-Pixel-perfect, production-style responsive clones — where the MERN journey began. Strong foundation in semantic HTML & modern CSS.
-
-`HTML5` `CSS3` `Responsive Design`
+`React` `Vite` `Node.js` `Express` `MongoDB` `Razorpay`
 
 </td>
 </tr>
@@ -90,36 +79,21 @@ Pixel-perfect, production-style responsive clones — where the MERN journey beg
 
 <br>
 
-## 💼 Experience
+## 🎓 Education
 
-```text
-2026  Edunet Foundation × IBM SkillsBuild — AI & Emerging Tech Intern (AICTE)
-      → AI, Agentic AI, Cloud, Cybersecurity & Quantum Computing exposure
+**Jagannath University** — B.Tech in Computer Science & Engineering `2023 – 2027`
+Jaipur, Rajasthan
 
-2025  ApexPlanet Software Pvt. Ltd. — Web Development Intern
-      → Frontend development with HTML, CSS & JavaScript
-```
+**T.S. College Hisua** — BSEB 12th — 77.6% `2023`
+**Inter School Hisua** — BSEB 10th — 87.6% `2021`
 
 <br>
 
-## 🛠️ Tech Stack
+## 📜 Certifications
 
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+- Artificial Intelligence Primer — Infosys Springboard `2026`
+- Virtual Internship in Cybersecurity — Cisco Networking Academy / AICTE `2025`
+- Emerging Technologies Internship (4-Week) — Edunet Foundation / AICTE / IBM SkillsBuild `2026`
 
 <br>
 
@@ -127,16 +101,16 @@ Pixel-perfect, production-style responsive clones — where the MERN journey beg
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=surajrajput999&show_icons=true&hide_title=false&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFA500&text_color=FFFFFF&ring_color=FFD700"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrajput999&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&langs_count=8"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=surajrajput999&show_icons=true&hide_title=false&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF2E9F&text_color=FFFFFF&ring_color=00F5FF"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrajput999&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=8"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrajput999&hide_border=true&background=0D1117&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrajput999&hide_border=true&background=0D1117&ring=FF2E9F&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajrajput999&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFD700&line=FFA500&point=FFFFFF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajrajput999&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF2E9F&point=FFFFFF"/>
 
 </div>
 
@@ -147,8 +121,8 @@ Pixel-perfect, production-style responsive clones — where the MERN journey beg
 ### 🤝 Let's Connect & Build Something Great
 
 <a href="https://www.linkedin.com/in/suraj-bhan-pratap-singh-891727293/"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:surajdona2005@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hi-FFD700?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+<a href="mailto:surajdona2005@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hi-00F5FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302B63,50:24243e,100:0F0C29&height=100&section=footer" width="100%"/>
 
 </div>
