@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=220&section=header&text=Suraj%20Bhan%20Pratap%20Singh&fontSize=42&fontColor=FFD700&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%2B%20AI&descAlignY=58&descSize=20&descColor=FFFFFF&animation=fadeIn" width="100%"/>
 
-<a href="https://surajbhan-15.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="https://surajrajput15.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 <a href="https://www.linkedin.com/in/suraj-bhan-pratap-singh-891727293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:surajdona2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/surajrajput999"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
