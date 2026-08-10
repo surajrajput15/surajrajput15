@@ -1,80 +1,154 @@
 <div align="center">
 
-# Suraj Bhan Pratap Singh
-### **Full-Stack Developer & AI Systems Engineer**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=220&section=header&text=Suraj%20Bhan%20Pratap%20Singh&fontSize=42&fontColor=FFD700&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%2B%20AI&descAlignY=58&descSize=20&descColor=FFFFFF&animation=fadeIn" width="100%"/>
 
-*Designing and building production-oriented full-stack web applications and scalable AI systems.*
+<a href="https://surajbhan-15.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/suraj-bhan-pratap-singh-891727293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:surajdona2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/surajrajput999"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-surajrajput15.vercel.app-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://surajrajput15.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-bhan-pratap-singh-891727293/)
-[![GitHub](https://img.shields.io/badge/GitHub-surajrajput999-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surajrajput999)
-[![Email](https://img.shields.io/badge/Email-surajdona2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajdona2005@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=650&lines=Building+production-grade+full-stack+apps;MERN+Stack+%2B+AI-powered+products;Final+Year+CSE+%40+Jagannath+University;Open+to+SDE+%2F+Full-Stack+Roles+🚀" />
 
 </div>
 
----
+<br>
 
-## 📌 Executive Summary
+## 🟡 About Me
 
-I am a Full-Stack and AI Developer with hands-on experience in full-stack web engineering, database architecture, secure API development, and context-aware LLM integrations. My work focuses on building resilient web applications with server-authoritative logic, clean modular architectures, and defensive security practices.
+```javascript
+const suraj = {
+  role: "Full-Stack Developer & Aspiring SDE",
+  location: "Jaipur, Rajasthan, India 🇮🇳",
+  university: "B.Tech CSE, Jagannath University (2023 – 2027)",
+  stack: {
+    languages: ["JavaScript (ES6+)", "TypeScript", "Python", "SQL"],
+    frontend: ["React.js", "Next.js", "Tailwind CSS", "Material Design 3"],
+    backend: ["Node.js", "Express.js", "Flask", "REST APIs"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL"],
+    ai: ["Groq API", "Google Gemini API", "Prompt Engineering", "Agentic AI"],
+    cloud: ["IBM Cloud", "Vercel", "Render", "Neon", "Upstash Redis"]
+  },
+  currentFocus: "Cracking full-stack SDE interviews & shipping AI-powered products",
+  funFact: "Debugging a 404 at 2 AM > sleep 😅"
+};
+```
 
-- **Primary Specialization**: Full-Stack Web Architecture, Distributed State Management, Applied AI & RAG Pipelines
-- **Engineering Principles**: Server-side validation, defensive API security, caching layers, and component-driven UI
-- **Current Academic Background**: B.Tech CSE (2023–2027) at Jagannath University, Jaipur · Open to Software Engineering Internships & Full-Stack / AI Roles
+<br>
 
----
-
-## ⚡ What I Build
+## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ Full-Stack Web Applications</h4>
-      <ul>
-        <li>Modern single-page and server-rendered architectures using <b>Next.js</b>, <b>React</b>, and <b>TypeScript</b>.</li>
-        <li>State persistence, hydration control, and client-side store management using <b>Zustand</b>.</li>
-        <li>Responsive, accessible interfaces built with <b>Tailwind CSS</b> and modern design systems.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧠 Applied AI & Intelligent Systems</h4>
-      <ul>
-        <li>Integration of high-throughput LLM endpoints using <b>Groq API</b> and <b>Google Gemini API</b>.</li>
-        <li>Implementation of <b>Retrieval-Augmented Generation (RAG)</b> for document intelligence.</li>
-        <li>Structured prompt engineering, agentic workflows, and automated knowledge synthesis.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛡️ Backend Services & Security</h4>
-      <ul>
-        <li>Scalable RESTful API development with <b>Node.js</b>, <b>Express.js</b>, and <b>Flask</b>.</li>
-        <li>Authentication and session management via <b>Clerk</b>, <b>JWT</b>, and <b>Google OAuth</b>.</li>
-        <li>Defensive security controls: <b>Helmet</b>, <b>CORS policies</b>, rate limiting, and input sanitization.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💾 Persistence & Caching Layers</h4>
-      <ul>
-        <li>Relational database design, migrations, and ORM modeling with <b>PostgreSQL (Neon)</b> and <b>Drizzle ORM</b>.</li>
-        <li>Document-based data storage and query optimization using <b>MongoDB</b>.</li>
-        <li>Low-latency caching, session storage, and rate limiting with <b>Upstash Redis</b>.</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 StudySnap
+**AI-Powered Study Platform**
+
+Full-stack platform with rich-text notes, revision scheduling, voice notes, PDF export & PWA support. Groq-powered AI tutoring, summarization, MCQ generation, flashcards and translation.
+
+`Next.js` `TypeScript` `PostgreSQL` `Clerk` `Groq`
+
+[🔗 Live Demo](https://github.com/surajrajput999) · [📂 Source](https://github.com/surajrajput999)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ Cartify
+**Full-Stack E-Commerce Platform**
+
+Complete e-commerce flow — cart, checkout, orders, admin dashboard. JWT + OTP + Google OAuth auth, Razorpay integration, server-authoritative pricing, rate limiting & Helmet/CORS hardening.
+
+`React` `Node.js` `Express` `MongoDB` `Razorpay`
+
+[🔗 Live Demo](https://cartifystore.vercel.app/) · [📂 Source](https://github.com/surajrajput999)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Sanjivani
+**AI Health Prediction App**
+
+ML-based diabetes risk prediction built during the IBM SkillsBuild AI internship, with a clean interactive Streamlit UI, deployed live.
+
+`Python` `Scikit-learn` `Streamlit` `Pandas`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Frontend Clones
+**Myntra & Razorpay UI**
+
+Pixel-perfect, production-style responsive clones — where the MERN journey began. Strong foundation in semantic HTML & modern CSS.
+
+`HTML5` `CSS3` `Responsive Design`
+
+</td>
+</tr>
 </table>
 
----
+<br>
 
-## 🚀 Featured Engineering Projects
+## 💼 Experience
 
-### 01. StudySnap — Full-Stack AI Learning & Productivity Platform
-> **Flagship AI + Full-Stack System** · *An intelligent workspace featuring rich-text note taking, automated revision scheduling, and real-time AI tutoring.*
+```text
+2026  Edunet Foundation × IBM SkillsBuild — AI & Emerging Tech Intern (AICTE)
+      → AI, Agentic AI, Cloud, Cybersecurity & Quantum Computing exposure
 
-- **Full-Stack Architecture**: Built with Next.js, React, and TypeScript with secure, authenticated API endpoints and Progressive Web App (PWA) support.
-- **AI Synthesis Engine**: Integrated Groq API for sub-second AI tutoring, automated summarization, flashcard/MCQ generation, voice notes, and language translation.
-- **Data & Caching Layer**: Configured Neon PostgreSQL managed via Drizzle ORM, backed by Upstash Redis for high-speed caching and Zustand for client-side state persistence.
-- **Application Security**: Implemented enterprise authentication with Clerk, defensive HTTP headers, input validation, and rate limiting.
-- **Export & Portability**: Integrated cross-platform PDF export engine and audio processing pipelines.
+2025  ApexPlanet Software Pvt. Ltd. — Web Development Intern
+      → Frontend development with HTML, CSS & JavaScript
+```
 
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=surajrajput999&show_icons=true&hide_title=false&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFA500&text_color=FFFFFF&ring_color=FFD700"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrajput999&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&langs_count=8"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrajput999&hide_border=true&background=0D1117&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajrajput999&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFD700&line=FFA500&point=FFFFFF"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Something Great
+
+<a href="https://www.linkedin.com/in/suraj-bhan-pratap-singh-891727293/"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:surajdona2005@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hi-FFD700?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=100&section=footer" width="100%"/>
+
+</div>
