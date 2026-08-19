@@ -5,7 +5,7 @@
 <a href="https://surajrajput15.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 <a href="https://www.linkedin.com/in/suraj-bhan-pratap-singh-891727293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:surajdona2005@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/surajrajput999"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/surajrajput15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%2B+AI;Building+production-oriented+web+apps;Final+Year+CSE+%40+Jagannath+University;Open+to+SDE+%2F+Full-Stack+Roles+🚀" />
 
@@ -101,16 +101,16 @@ Jaipur, Rajasthan
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=surajrajput999&show_icons=true&hide_title=false&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=A855F7&text_color=FFFFFF&ring_color=6366F1"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrajput999&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=surajrajput15&show_icons=true&hide_title=false&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=A855F7&text_color=FFFFFF&ring_color=6366F1"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrajput15&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrajput999&hide_border=true&background=0D1117&ring=A855F7&fire=6366F1&currStreakLabel=6366F1&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrajput15&hide_border=true&background=0D1117&ring=A855F7&fire=6366F1&currStreakLabel=6366F1&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajrajput999&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=A855F7&point=FFFFFF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajrajput15&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=A855F7&point=FFFFFF"/>
 
 </div>
 
