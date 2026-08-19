@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0A29,50:1E1B4B,100:312E81&height=220&section=header&text=Suraj%20Bhan%20Pratap%20Singh&fontSize=42&fontColor=A5B4FC&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI&descAlignY=58&descSize=20&descColor=A855F7&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?surajrajput15type=waving&color=0:0F0A29,50:1E1B4B,100:312E81&height=220&section=header&text=Suraj%20Bhan%20Pratap%20Singh&fontSize=42&fontColor=A5B4FC&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI&descAlignY=58&descSize=20&descColor=A855F7&animation=fadeIn" width="100%"/>
 
 <a href="https://surajrajput15.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 <a href="https://www.linkedin.com/in/suraj-bhan-pratap-singh-891727293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
