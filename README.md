@@ -5,21 +5,26 @@
 <h2>Full Stack Developer · AI Engineer</h2>
 
 <p>
-Building production-oriented web applications, AI-powered products,
-and reliable full-stack systems.
+Building production-oriented web applications and AI-powered products
+with a focus on scalable architecture, security and real-world usability.
 </p>
 
+<br>
+
 <a href="https://surajrajput15.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/suraj-bhan-pratap-singh-891727293/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:surajdona2005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://github.com/surajrajput15">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
@@ -30,19 +35,19 @@ and reliable full-stack systems.
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 
 I'm a **Computer Science undergraduate and Full Stack Developer** focused on building production-oriented web applications and AI-powered products.
 
-My work spans:
+My work focuses on:
 
-* Full-stack application architecture
-* REST API design and backend development
-* Authentication and authorization
-* AI application development and LLM integrations
-* Database design and data persistence
-* Cloud deployment and production engineering
-* Security, performance and reliability
+- Full-stack application architecture
+- REST API design and backend development
+- Authentication and authorization
+- AI and LLM-powered application features
+- Database design and data persistence
+- Cloud deployment
+- Security, performance and reliability
 
 Currently pursuing **B.Tech in Computer Science & Engineering** at Jagannath University, Jaipur.
 
@@ -62,7 +67,7 @@ Currently pursuing **B.Tech in Computer Science & Engineering** at Jagannath Uni
 
 ### Backend
 
-`Node.js` `Express.js` `Flask` `REST APIs`
+`Node.js` `Express.js` `REST APIs`
 
 ### Databases
 
@@ -70,13 +75,13 @@ Currently pursuing **B.Tech in Computer Science & Engineering** at Jagannath Uni
 
 ### AI & Application Development
 
-`Groq API` `Google Gemini API` `Prompt Engineering` `AI Application Development` `Agentic AI`
+`Groq API` `Google Gemini API` `Prompt Engineering` `AI Application Development`
 
 ### Cloud & Infrastructure
 
 `Vercel` `Render` `IBM Cloud` `Neon` `Upstash Redis`
 
-### Security
+### Authentication & Security
 
 `Clerk` `JWT` `Google OAuth` `Helmet` `CORS` `Rate Limiting`
 
@@ -86,77 +91,80 @@ Currently pursuing **B.Tech in Computer Science & Engineering** at Jagannath Uni
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🧠 StudySnap
+## 🧠 StudySnap
 
-**AI-powered study and productivity platform**
+**AI-Powered Study & Productivity Platform**
 
-A full-stack PWA for creating and organizing notes, planning revision, managing subjects and interacting with AI study tools.
+A full-stack PWA designed for note management, revision planning and AI-assisted learning.
 
-**Highlights**
+### Key Features
 
-* AI tutoring and study assistance
-* AI summaries, MCQs, flashcards and translation
-* Voice notes and speech features
-* Revision planning
-* Clerk authentication
-* PostgreSQL persistence
-* Redis caching
-* PWA support
-* Security and production-readiness improvements
+- AI study assistance and tutoring
+- AI summaries, MCQs and flashcards
+- Translation and learning workflows
+- Voice notes and speech features
+- Revision planning
+- Subject and folder organization
+- Authentication and protected APIs
+- PWA support
+- Production-oriented security improvements
 
-**Stack**
+### Stack
 
 `Next.js` `React` `TypeScript` `Node.js` `PostgreSQL` `Clerk` `Groq`
 
 <br>
 
 <a href="https://github.com/surajrajput15/StudySnap">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://studysnap-sigma.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🛍️ Cartify
+## 🛍️ Cartify
 
-**Full-stack e-commerce platform**
+**Production-Oriented Full-Stack E-Commerce Platform**
 
-A production-oriented e-commerce application covering product browsing, cart management, authentication, checkout, orders and admin workflows.
+A full-stack commerce application covering authentication, product discovery, cart management, checkout, orders and admin workflows.
 
-**Highlights**
+### Key Features
 
-* JWT, OTP/password authentication
-* Google OAuth
-* Protected admin routes
-* Razorpay payment integration
-* Server-authoritative pricing
-* Payment verification
-* Rate limiting and security headers
-* Input validation
-* Performance and accessibility improvements
+- JWT and OTP/password authentication
+- Google OAuth
+- Protected admin routes
+- Razorpay payment integration
+- Server-authoritative pricing
+- Payment verification
+- Rate limiting
+- Helmet and CORS security
+- Input validation
+- Performance and accessibility improvements
 
-**Stack**
+### Stack
 
 `React` `Vite` `Node.js` `Express` `MongoDB` `Razorpay`
 
 <br>
 
 <a href="https://github.com/surajrajput15/CARTIFY-APP">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://cartify-hub.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
@@ -167,58 +175,61 @@ A production-oriented e-commerce application covering product browsing, cart man
 
 <td width="50%" valign="top">
 
-### 🤖 AI Study Buddy
+## 🤖 AI Study Buddy
 
-**AI-powered learning assistant**
+**AI-Powered Learning Assistant**
 
-An AI-focused learning application built around interactive study assistance and modern web application architecture.
+An AI-focused learning application designed around interactive study assistance and AI-driven learning workflows.
 
-**Focus Areas**
+### Focus Areas
 
-* AI-assisted learning workflows
-* Conversational study assistance
-* Modern full-stack architecture
-* Responsive user experience
-* Production deployment
+- AI-assisted learning
+- Interactive study workflows
+- Conversational assistance
+- Responsive application design
+- Full-stack application development
+- Cloud deployment
 
-**Stack**
+### Stack
 
 `React` `JavaScript` `Node.js` `AI APIs` `Vercel`
 
 <br>
 
 <a href="https://github.com/surajrajput15/AI-Study-Buddy">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://notes-nexus-labs.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔬 Sanjivani Diabetes Predictor
+## 🔬 Sanjivani Diabetes Predictor
 
-**Machine-learning based healthcare project**
+**Machine Learning Prediction Application**
 
-A machine-learning project focused on diabetes prediction using a practical data-driven workflow.
+A machine-learning project focused on building a practical diabetes prediction workflow from structured data.
 
-**Focus Areas**
+### Focus Areas
 
-* Data preprocessing
-* Machine learning workflow
-* Prediction pipeline
-* Practical application development
+- Data preprocessing
+- Feature preparation
+- Machine learning workflow
+- Model-based prediction
+- Practical application development
 
-**Stack**
+### Stack
 
 `Python` `Machine Learning` `Data Analysis`
 
 <br>
 
 <a href="https://github.com/surajrajput15/Sanjivani-Diabetes-Predictor">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -228,54 +239,54 @@ A machine-learning project focused on diabetes prediction using a practical data
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### Edunet Foundation — AI & Emerging Technologies Intern
+## Edunet Foundation — AI & Emerging Technologies Intern
 
 **11 May – 21 Jun 2026 · AICTE / IBM SkillsBuild**
 
-* Completed a 6-week internship covering Artificial Intelligence, Agentic AI, Cloud Computing, Cybersecurity and Quantum Computing.
-* Worked with IBM SkillsBuild, IBM Cloud and IBM BOB through hands-on learning and project work.
-* Applied AI and cloud concepts to an industry-oriented project.
-* Developed practical exposure to emerging technology and AI application development.
+- Completed a 6-week internship covering Artificial Intelligence, Agentic AI, Cloud Computing, Cybersecurity and Quantum Computing.
+- Worked with IBM SkillsBuild, IBM Cloud and IBM BOB through hands-on learning and project work.
+- Applied AI and cloud concepts to an industry-oriented project.
+- Gained practical exposure to AI application development and emerging technologies.
 
-### ApexPlanet Software Pvt. Ltd. — Web Development Intern
+## ApexPlanet Software Pvt. Ltd. — Web Development Intern
 
 **11 Dec 2025 – 24 Jan 2026 · Virtual Internship**
 
-* Completed a project-based web development internship.
-* Applied HTML, CSS and JavaScript through practical frontend development work.
+- Completed a project-based web development internship.
+- Applied HTML, CSS and JavaScript through practical frontend development work.
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 ### Jagannath University
 
-**B.Tech — Computer Science & Engineering**
+**B.Tech — Computer Science & Engineering**  
 2023 – 2027 · Jaipur, Rajasthan
 
 ### T.S. College Hisua
 
-**BSEB Class 12 — 77.6%**
+**BSEB Class 12 — 77.6%**  
 2023
 
 ### Inter School Hisua
 
-**BSEB Class 10 — 87.6%**
+**BSEB Class 10 — 87.6%**  
 2021
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
-* **Artificial Intelligence Primer** — Infosys Springboard · 2026
-* **Emerging Technologies Internship — 4 Week** — Edunet Foundation / AICTE / IBM SkillsBuild · 2026
-* **Virtual Internship in Cybersecurity** — Cisco Networking Academy / AICTE · 2025
+- **Artificial Intelligence Primer** — Infosys Springboard · 2026
+- **Emerging Technologies Internship — 4 Week** — Edunet Foundation / AICTE / IBM SkillsBuild · 2026
+- **Virtual Internship in Cybersecurity** — Cisco Networking Academy / AICTE · 2025
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -291,20 +302,20 @@ A machine-learning project focused on diabetes prediction using a practical data
 
 ---
 
-## 📫 Connect
+# 📫 Connect
 
 <div align="center">
 
 <a href="https://surajrajput15.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/suraj-bhan-pratap-singh-891727293/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:surajdona2005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
