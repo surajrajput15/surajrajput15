@@ -43,11 +43,12 @@ My work focuses on:
 
 - Full-stack application architecture
 - REST API design and backend development
-- Authentication and authorization
 - AI and LLM-powered application features
-- Database design and data persistence
-- Cloud deployment
+- Authentication and authorization
+- Database design (SQL and NoSQL) and caching
+- Cloud deployment and CI/CD
 - Security, performance and reliability
+- Explainable machine learning applications
 
 Currently pursuing **B.Tech in Computer Science & Engineering** at Jagannath University, Jaipur.
 
@@ -63,31 +64,39 @@ Currently pursuing **B.Tech in Computer Science & Engineering** at Jagannath Uni
 
 ### Frontend
 
-`React.js` `Next.js` `HTML5` `CSS3` `Tailwind CSS` `Material Design 3`
+`React.js` `Next.js` `Vite` `HTML5` `CSS3` `Tailwind CSS` `TypeScript`
 
 ### Backend
 
-`Node.js` `Express.js` `REST APIs`
+`Node.js` `Express.js` `Python` `Flask` `REST APIs`
 
-### Databases
+### Databases & Cache
 
-`MongoDB` `PostgreSQL` `MySQL`
+`MongoDB` `PostgreSQL (Neon)` `MySQL` `Upstash Redis`
 
 ### AI & Application Development
 
-`Groq API` `Google Gemini API` `Prompt Engineering` `AI Application Development`
+`Google Gemini API` `Groq API` `Prompt Engineering` `AI Application Development`
+
+### Machine Learning
+
+`scikit-learn` `pandas` `NumPy` `Streamlit` `Logistic Regression`
 
 ### Cloud & Infrastructure
 
-`Vercel` `Render` `IBM Cloud` `Neon` `Upstash Redis`
+`Vercel` `Render` `IBM Cloud` `Neon` `Upstash Redis` `Cloudinary`
 
 ### Authentication & Security
 
-`Clerk` `JWT` `Google OAuth` `Helmet` `CORS` `Rate Limiting`
+`Clerk` `JWT` `Google OAuth` `OTP` `Helmet` `CORS` `Rate Limiting` `Zod Validation`
+
+### Payments
+
+`Razorpay`
 
 ### Developer Tools
 
-`Git` `GitHub` `Postman` `VS Code`
+`Git` `GitHub` `Postman` `VS Code` `Playwright`
 
 ---
 
@@ -102,23 +111,24 @@ Currently pursuing **B.Tech in Computer Science & Engineering** at Jagannath Uni
 
 **AI-Powered Study & Productivity Platform**
 
-A full-stack PWA designed for note management, revision planning and AI-assisted learning.
+An offline-first PWA for note management, AI tutoring, revision planning and gamified learning.
 
 ### Key Features
 
-- AI study assistance and tutoring
-- AI summaries, MCQs and flashcards
-- Translation and learning workflows
-- Voice notes and speech features
-- Revision planning
-- Subject and folder organization
-- Authentication and protected APIs
-- PWA support
-- Production-oriented security improvements
+- AI tutor, summaries, MCQ and flashcard generation
+- Translation and AI-assisted learning workflows
+- Offline-first sync engine with guest-to-account data migration
+- Voice notes with speech recognition
+- PDF import/export and math (KaTeX) rendering
+- Revision calendar with spaced repetition, streaks and XP
+- Auth via Clerk + Svix webhook verification
+- Neon Postgres (Drizzle ORM) + Upstash Redis caching
+- Zod validation, rate limiting, Helmet and CORS
+- Playwright e2e and unit tests
 
 ### Stack
 
-`Next.js` `React` `TypeScript` `Node.js` `PostgreSQL` `Clerk` `Groq`
+`Next.js` `React` `TypeScript` `Node.js` `PostgreSQL (Neon)` `Drizzle` `Clerk` `Upstash` `Groq`
 
 <br>
 
@@ -138,24 +148,23 @@ A full-stack PWA designed for note management, revision planning and AI-assisted
 
 **Production-Oriented Full-Stack E-Commerce Platform**
 
-A full-stack commerce application covering authentication, product discovery, cart management, checkout, orders and admin workflows.
+A MERN monorepo (Frontend / Backend / QA) covering authentication, checkout, orders and admin workflows.
 
 ### Key Features
 
-- JWT and OTP/password authentication
-- Google OAuth
-- Protected admin routes
-- Razorpay payment integration
+- 3-way auth: password, OTP and Google OAuth
+- Role-based admin routes
+- Razorpay with server-side HMAC SHA256 verification
+- Socket.IO real-time features and cart merge on login
 - Server-authoritative pricing
-- Payment verification
-- Rate limiting
-- Helmet and CORS security
-- Input validation
-- Performance and accessibility improvements
+- Redis caching, Swagger docs and ADRs
+- Rate limiting, Helmet, CORS and Zod input validation
+- CI via GitHub Actions and Dependabot
+- Backend tests (Jest / Supertest) and Playwright e2e
 
 ### Stack
 
-`React` `Vite` `Node.js` `Express` `MongoDB` `Razorpay`
+`React` `Vite` `Tailwind CSS` `Node.js` `Express` `MongoDB` `JWT` `Socket.IO` `Redis` `Razorpay`
 
 <br>
 
@@ -175,24 +184,25 @@ A full-stack commerce application covering authentication, product discovery, ca
 
 <td width="50%" valign="top">
 
-## 🤖 AI Study Buddy
+## 🤖 AI Study Buddy (Notes Nexus Labs)
 
-**AI-Powered Learning Assistant**
+**AI-Powered Study Assistant**
 
-An AI-focused learning application designed around interactive study assistance and AI-driven learning workflows.
+A lightweight PWA that turns messy notes into bullet summaries and interactive flashcards using Google Gemini.
 
-### Focus Areas
+### Key Features
 
-- AI-assisted learning
-- Interactive study workflows
-- Conversational assistance
-- Responsive application design
-- Full-stack application development
-- Cloud deployment
+- AI summarization and Q&A flip-card flashcards
+- Upload `.txt`, `.md` and `.pdf` files
+- Copy and export results as Markdown / CSV
+- Local history with load, delete and revisit
+- PWA with offline support
+- Per-IP rate limiting, CORS allowlist and input caps
+- Flask serverless API on Vercel
 
 ### Stack
 
-`React` `JavaScript` `Node.js` `AI APIs` `Vercel`
+`HTML` `CSS` `JavaScript` `Python` `Flask` `Google Gemini` `Vercel`
 
 <br>
 
@@ -210,26 +220,64 @@ An AI-focused learning application designed around interactive study assistance 
 
 ## 🔬 Sanjivani Diabetes Predictor
 
-**Machine Learning Prediction Application**
+**Transparent ML Screening Application**
 
-A machine-learning project focused on building a practical diabetes prediction workflow from structured data.
+A Streamlit app that screens diabetes risk from lab values with explainable, evidence-linked results.
 
-### Focus Areas
+### Key Features
 
-- Data preprocessing
-- Feature preparation
-- Machine learning workflow
-- Model-based prediction
-- Practical application development
+- Logistic Regression model on the Pima dataset (8 clinical features)
+- Risk gauge with confidence from prediction probabilities
+- Per-feature log-odds contribution breakdown
+- ADA / WHO clinical reference bands and OOD warnings
+- Model card with version drift and integrity checks
+- Screening-only disclaimers (not a diagnosis)
 
 ### Stack
 
-`Python` `Machine Learning` `Data Analysis`
+`Python` `Streamlit` `scikit-learn` `pandas` `NumPy`
 
 <br>
 
 <a href="https://github.com/surajrajput15/Sanjivani-Diabetes-Predictor">
 <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="100%" valign="top">
+
+## ⚡ Personal Portfolio
+
+**React 19 + Vite + Tailwind CSS 4 SPA**
+
+My personal site with hand-rolled animations, case studies and deep-link routing — no animation library needed.
+
+### Key Features
+
+- Custom animations via IntersectionObserver + CSS keyframes
+- Case-study pages for StudySnap and Cartify
+- Glassmorphism dark theme with gradient design system
+- SEO with Open Graph, Twitter cards and JSON-LD
+- Responsive images (AVIF / WebP / PNG) and fuzzy nav
+- Deep-link routes plus full 404 page
+
+### Stack
+
+`React` `Vite` `Tailwind CSS` `TypeScript` `React Router`
+
+<br>
+
+<a href="https://github.com/surajrajput15/suraj-portfolio">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://surajrajput15.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
