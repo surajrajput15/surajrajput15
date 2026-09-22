@@ -171,7 +171,7 @@ Delivered project-based frontend work using HTML, CSS, and JavaScript in a virtu
 ## 📜 Certifications
 
 - 🏅 [Artificial Intelligence Primer](https://drive.google.com/file/d/1kEX8IxgqU9xaDbBWULdUacvtx7SBnVtv/view?usp=sharing) — Infosys Springboard (2026)
-- 🏅 [Emerging Technologies Internship (4-Week)](https://drive.google.com/file/d/1HQZiZGNvkKlKQxNDCIlG9PI9ULKCFi2B/view?usp=sharing) — Edunet Foundation / AICTE / IBM SkillsBuild (2026)
+- 🏅 [Emerging Technologies Internship (6-Week)](https://drive.google.com/file/d/1HQZiZGNvkKlKQxNDCIlG9PI9ULKCFi2B/view?usp=sharing) — Edunet Foundation / AICTE / IBM SkillsBuild (2026)
 - 🏅 [Virtual Internship in Cybersecurity](https://drive.google.com/file/d/1AtD06C7T5oUI-NM_bp7CKYicyidq36G-/view?usp=sharing) — Cisco Networking Academy / AICTE (2025)
 - 🏅 [Web Development Internship Certificate](https://drive.google.com/file/d/1GyYFQDOGHaqfdZNNbTuKY1XpNmJlgF13/view?usp=sharing) — ApexPlanet Software Pvt. Ltd. (2026)
 
