@@ -1,346 +1,191 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0A29,50:1E1B4B,100:312E81&height=220&section=header&text=Suraj%20Bhan%20Pratap%20Singh&fontSize=42&fontColor=A5B4FC&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=58&descSize=20&descColor=A855F7&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0A29,50:1E1B4B,100:312E81&height=230&section=header&text=Suraj%20Bhan%20Pratap%20Singh&fontSize=42&fontColor=A5B4FC&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Enthusiast&descAlignY=58&descSize=18&descColor=A855F7&animation=fadeIn" width="100%"/>
 
-<h2>Full Stack Developer · AI Engineer</h2>
-
-<p>
-Building production-oriented web applications and AI-powered products
-with a focus on scalable architecture, security and real-world usability.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=780&lines=Building+Production-Grade+Full+Stack+Apps;Engineering+AI-Powered+Products;Secure+APIs+%7C+Scalable+Architecture+%7C+Clean+Code;Turning+Ideas+Into+Shipped+Software" />
 
 <br>
 
 <a href="https://surajrajput15.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/suraj-bhan-pratap-singh-891727293/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:surajdona2005@gmail.com">
 <img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://github.com/surajrajput15">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=Full+Stack+Development;AI-Powered+Applications;Production-Oriented+Engineering;Authentication+%7C+APIs+%7C+Cloud+%7C+Security" />
-
 </div>
 
----
+<br>
 
-## 👨‍💻 About
+## 👋 About Me
 
-I'm a **Computer Science undergraduate and Full Stack Developer** focused on building production-oriented web applications and AI-powered products.
+I'm a **Computer Science undergraduate (B.Tech, Jagannath University, Jaipur)** and a **Full Stack Developer** who builds production-oriented, real-world software — not just tutorial projects. I care about systems that are **secure, scalable, and genuinely usable**, and I'm actively expanding into **AI-integrated applications and cloud-native architecture**.
 
-My work focuses on:
+- 🔭 Currently building **AI-powered full-stack products** with the MERN stack + LLM APIs
+- 🌱 Deepening my skills in **cloud infrastructure, system design, and DevOps practices**
+- ⚡ Interested in the intersection of **product engineering and applied AI**
+- 🎯 Actively seeking **SDE / Full Stack / AI-Software Engineer** roles
+- 💬 Ask me about **React, Node.js, MongoDB, authentication systems, or AI app integration**
 
-- Full-stack application architecture
-- REST API design and backend development
-- AI and LLM-powered application features
-- Authentication and authorization
-- Database design (SQL and NoSQL) and caching
-- Cloud deployment and CI/CD
-- Security, performance and reliability
-- Explainable machine learning applications
-
-Currently pursuing **B.Tech in Computer Science & Engineering** at Jagannath University, Jaipur.
-
-**Open to:** SDE · Full Stack Developer · AI/Software Engineering roles
-
----
+<br>
 
 ## 🧰 Tech Stack
 
-### Languages
+<div align="center">
 
-`JavaScript` `TypeScript` `Python` `SQL`
+**Languages**
+<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Frontend
+**Frontend**
+<br>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-`React.js` `Next.js` `Vite` `HTML5` `CSS3` `Tailwind CSS` `TypeScript`
+**Backend & Databases**
+<br>
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Backend
+**AI & Cloud**
+<br>
+![Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq%20API-F55036?style=flat-square)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
-`Node.js` `Express.js` `Python` `Flask` `REST APIs`
+**Auth & Security**
+<br>
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=flat-square)
+![OAuth](https://img.shields.io/badge/-Google%20OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
 
-### Databases & Cache
+**Tools**
+<br>
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-`MongoDB` `PostgreSQL (Neon)` `MySQL` `Upstash Redis`
+</div>
 
-### AI & Application Development
+<br>
 
-`Google Gemini API` `Groq API` `Prompt Engineering` `AI Application Development`
-
-### Machine Learning
-
-`scikit-learn` `pandas` `NumPy` `Streamlit` `Logistic Regression`
-
-### Cloud & Infrastructure
-
-`Vercel` `Render` `IBM Cloud` `Neon` `Upstash Redis` `Cloudinary`
-
-### Authentication & Security
-
-`Clerk` `JWT` `Google OAuth` `OTP` `Helmet` `CORS` `Rate Limiting` `Zod Validation`
-
-### Payments
-
-`Razorpay`
-
-### Developer Tools
-
-`Git` `GitHub` `Postman` `VS Code` `Playwright`
-
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-## 🧠 StudySnap
+### 🧠 [StudySnap](https://studysnap-sigma.vercel.app/)
+**AI-Powered Study & Productivity Platform (PWA)**
 
-**AI-Powered Study & Productivity Platform**
+A full-stack learning companion with AI tutoring, auto-generated summaries/MCQs/flashcards, voice notes, and revision planning — built with security and offline-first usability in mind.
 
-An offline-first PWA for note management, AI tutoring, revision planning and gamified learning.
+`Next.js` `TypeScript` `Node.js` `PostgreSQL` `Clerk` `Groq`
 
-### Key Features
-
-- AI tutor, summaries, MCQ and flashcard generation
-- Translation and AI-assisted learning workflows
-- Offline-first sync engine with guest-to-account data migration
-- Voice notes with speech recognition
-- PDF import/export and math (KaTeX) rendering
-- Revision calendar with spaced repetition, streaks and XP
-- Auth via Clerk + Svix webhook verification
-- Neon Postgres (Drizzle ORM) + Upstash Redis caching
-- Zod validation, rate limiting, Helmet and CORS
-- Playwright e2e and unit tests
-
-### Stack
-
-`Next.js` `React` `TypeScript` `Node.js` `PostgreSQL (Neon)` `Drizzle` `Clerk` `Upstash` `Groq`
-
-<br>
-
-<a href="https://github.com/surajrajput15/StudySnap">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://studysnap-sigma.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+[🔗 Live Demo](https://studysnap-sigma.vercel.app/) · [💻 Source](https://github.com/surajrajput15/StudySnap)
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🛍️ Cartify
+### 🛍️ [Cartify](https://cartify-hub.vercel.app/)
+**Production-Grade E-Commerce Platform**
 
-**Production-Oriented Full-Stack E-Commerce Platform**
+End-to-end commerce app: JWT + OTP + Google OAuth auth, Razorpay payments with server-authoritative pricing and verification, rate limiting, and hardened admin workflows.
 
-A MERN monorepo (Frontend / Backend / QA) covering authentication, checkout, orders and admin workflows.
+`React` `Node.js` `Express` `MongoDB` `Razorpay`
 
-### Key Features
-
-- 3-way auth: password, OTP and Google OAuth
-- Role-based admin routes
-- Razorpay with server-side HMAC SHA256 verification
-- Socket.IO real-time features and cart merge on login
-- Server-authoritative pricing
-- Redis caching, Swagger docs and ADRs
-- Rate limiting, Helmet, CORS and Zod input validation
-- CI via GitHub Actions and Dependabot
-- Backend tests (Jest / Supertest) and Playwright e2e
-
-### Stack
-
-`React` `Vite` `Tailwind CSS` `Node.js` `Express` `MongoDB` `JWT` `Socket.IO` `Redis` `Razorpay`
-
-<br>
-
-<a href="https://github.com/surajrajput15/CARTIFY-APP">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://cartify-hub.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+[🔗 Live Demo](https://cartify-hub.vercel.app/) · [💻 Source](https://github.com/surajrajput15/CARTIFY-APP)
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-## 🤖 AI Study Buddy (Notes Nexus Labs)
+### 🤖 [AI Study Buddy](https://notes-nexus-labs.vercel.app/)
+**Conversational AI Learning Assistant**
 
-**AI-Powered Study Assistant**
+An interactive AI-driven study tool focused on conversational learning workflows and responsive full-stack design.
 
-A lightweight PWA that turns messy notes into bullet summaries and interactive flashcards using Google Gemini.
+`React` `JavaScript` `Node.js` `AI APIs`
 
-### Key Features
-
-- AI summarization and Q&A flip-card flashcards
-- Upload `.txt`, `.md` and `.pdf` files
-- Copy and export results as Markdown / CSV
-- Local history with load, delete and revisit
-- PWA with offline support
-- Per-IP rate limiting, CORS allowlist and input caps
-- Flask serverless API on Vercel
-
-### Stack
-
-`HTML` `CSS` `JavaScript` `Python` `Flask` `Google Gemini` `Vercel`
-
-<br>
-
-<a href="https://github.com/surajrajput15/AI-Study-Buddy">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://notes-nexus-labs.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+[🔗 Live Demo](https://notes-nexus-labs.vercel.app/) · [💻 Source](https://github.com/surajrajput15/AI-Study-Buddy)
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🔬 Sanjivani Diabetes Predictor
+### 🔬 [Sanjivani Diabetes Predictor](https://github.com/surajrajput15/Sanjivani-Diabetes-Predictor)
+**ML-Based Health Prediction Tool**
 
-**Transparent ML Screening Application**
+A machine learning pipeline covering preprocessing, feature engineering, and model-based prediction for diabetes risk from structured medical data.
 
-A Streamlit app that screens diabetes risk from lab values with explainable, evidence-linked results.
+`Python` `Machine Learning` `Pandas`
 
-### Key Features
-
-- Logistic Regression model on the Pima dataset (8 clinical features)
-- Risk gauge with confidence from prediction probabilities
-- Per-feature log-odds contribution breakdown
-- ADA / WHO clinical reference bands and OOD warnings
-- Model card with version drift and integrity checks
-- Screening-only disclaimers (not a diagnosis)
-
-### Stack
-
-`Python` `Streamlit` `scikit-learn` `pandas` `NumPy`
-
-<br>
-
-<a href="https://github.com/surajrajput15/Sanjivani-Diabetes-Predictor">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[💻 Source](https://github.com/surajrajput15/Sanjivani-Diabetes-Predictor)
 
 </td>
-
-</tr>
-
-<tr>
-
-<td width="100%" valign="top">
-
-## ⚡ Personal Portfolio
-
-**React 19 + Vite + Tailwind CSS 4 SPA**
-
-My personal site with hand-rolled animations, case studies and deep-link routing — no animation library needed.
-
-### Key Features
-
-- Custom animations via IntersectionObserver + CSS keyframes
-- Case-study pages for StudySnap and Cartify
-- Glassmorphism dark theme with gradient design system
-- SEO with Open Graph, Twitter cards and JSON-LD
-- Responsive images (AVIF / WebP / PNG) and fuzzy nav
-- Deep-link routes plus full 404 page
-
-### Stack
-
-`React` `Vite` `Tailwind CSS` `TypeScript` `React Router`
-
-<br>
-
-<a href="https://github.com/surajrajput15/suraj-portfolio">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://surajrajput15.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</td>
-
 </tr>
 </table>
 
----
+<br>
 
-# 💼 Experience
+## 💼 Experience
 
-## Edunet Foundation — AI & Emerging Technologies Intern
+**AI & Emerging Technologies Intern** — *Edunet Foundation (AICTE / IBM SkillsBuild)*
+📅 May – Jun 2026
+Completed a 6-week program spanning AI, Agentic AI, Cloud, Cybersecurity, and Quantum Computing; applied concepts via IBM Cloud and IBM SkillsBuild to an industry-oriented project.
 
-**11 May – 21 Jun 2026 · AICTE / IBM SkillsBuild**
+**Web Development Intern** — *ApexPlanet Software Pvt. Ltd.*
+📅 Dec 2025 – Jan 2026
+Delivered project-based frontend work using HTML, CSS, and JavaScript in a virtual internship setting.
 
-- Completed a 6-week internship covering Artificial Intelligence, Agentic AI, Cloud Computing, Cybersecurity and Quantum Computing.
-- Worked with IBM SkillsBuild, IBM Cloud and IBM BOB through hands-on learning and project work.
-- Applied AI and cloud concepts to an industry-oriented project.
-- Gained practical exposure to AI application development and emerging technologies.
+<br>
 
-## ApexPlanet Software Pvt. Ltd. — Web Development Intern
+## 🎓 Education
 
-**11 Dec 2025 – 24 Jan 2026 · Virtual Internship**
+| Institution | Degree | Duration | Score |
+|---|---|---|---|
+| Jagannath University, Jaipur | B.Tech, CSE | 2023 – 2027 | Ongoing |
+| T.S. College Hisua | BSEB Class 12 | 2023 | 77.6% |
+| Inter School Hisua | BSEB Class 10 | 2021 | 87.6% |
 
-- Completed a project-based web development internship.
-- Applied HTML, CSS and JavaScript through practical frontend development work.
+<br>
 
----
+## 📜 Certifications
 
-# 🎓 Education
+- 🏅 Artificial Intelligence Primer — Infosys Springboard (2026)
+- 🏅 Emerging Technologies Internship (4-Week) — Edunet Foundation / AICTE / IBM SkillsBuild (2026)
+- 🏅 Virtual Internship in Cybersecurity — Cisco Networking Academy / AICTE (2025)
 
-### Jagannath University
+<br>
 
-**B.Tech — Computer Science & Engineering**  
-2023 – 2027 · Jaipur, Rajasthan
-
-### T.S. College Hisua
-
-**BSEB Class 12 — 77.6%**  
-2023
-
-### Inter School Hisua
-
-**BSEB Class 10 — 87.6%**  
-2021
-
----
-
-# 📜 Certifications
-
-- **Artificial Intelligence Primer** — Infosys Springboard · 2026
-- **Emerging Technologies Internship — 4 Week** — Edunet Foundation / AICTE / IBM SkillsBuild · 2026
-- **Virtual Internship in Cybersecurity** — Cisco Networking Academy / AICTE · 2025
-
----
-
-# 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=surajrajput15&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=A855F7&text_color=FFFFFF&rank_icon=github" />
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrajput15&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrajput15&theme=react&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakLabel=A855F7" width="48%" />
 
 <br><br>
 
@@ -348,29 +193,23 @@ My personal site with hand-rolled animations, case studies and deep-link routing
 
 </div>
 
----
+<br>
 
-# 📫 Connect
+## 📫 Let's Connect
 
 <div align="center">
 
 <a href="https://surajrajput15.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/suraj-bhan-pratap-singh-891727293/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:surajdona2005@gmail.com">
 <img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:1E1B4B,100:0F0A29&height=100&section=footer" width="100%"/>
 
