@@ -1,151 +1,259 @@
-# Suraj Bhan Pratap Singh
-
-**Full Stack Developer | AI Integration**
-
-Building production-oriented web applications, authenticated systems, payment workflows, and practical AI-powered products. Final-year Computer Science undergraduate actively seeking SDE, Full Stack, and AI Software Engineering opportunities.
-
-[🌐 Portfolio](https://surajrajput15.vercel.app/) &nbsp;|&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/suraj-bhan-pratap-singh-891727293/) &nbsp;|&nbsp; [📫 Email](mailto:surajdona2005@gmail.com) &nbsp;|&nbsp; [💻 GitHub](https://github.com/surajrajput15)
-
----
-
-### Quick Navigation
-[About Me](#-about-me) • [Technical Skills](#-technical-skills) • [Featured Projects](#-featured-projects) • [Experience](#-experience) • [Education](#-education) • [Certifications](#-certifications) • [GitHub Analytics](#-github-analytics) • [Contact](#-contact)
-
----
-
-## 👨‍💻 About Me
-
-I am a final-year Computer Science undergraduate at Jagannath University, Jaipur (2023–2027) with a dedicated focus on **Full Stack Web Development** and **Applied AI Integration**. I engineer software with an emphasis on defensive security, scalable API architecture, database integrity, and practical AI capabilities rather than surface-level tutorials.
-
-My core workflow centers on TypeScript and JavaScript ecosystems—building high-performance frontends with Next.js and React, reliable backends using Node.js and Express, and structured data layers with PostgreSQL and MongoDB. In parallel, I actively practice algorithmic problem solving and Data Structures & Algorithms using **Java**, and integrate large language models (Groq LLaMA-3.1, Google Gemini) to build genuinely useful automated workflows.
-
----
-
-## 🧰 Technical Skills
-
-* **Languages:** Java (DSA & Problem Solving), TypeScript, JavaScript, Python, SQL
-* **Frontend Development:** React.js, Next.js, Tailwind CSS, HTML5, CSS3, Responsive Design
-* **Backend & APIs:** Node.js, Express.js, RESTful API Architecture, Middleware Design
-* **Databases & ORM:** PostgreSQL, Drizzle ORM, MongoDB (Mongoose), MySQL
-* **AI & LLM Integration:** Groq Cloud API (LLaMA-3.1), Google Gemini API, Prompt Engineering, Structured JSON Outputs
-* **Authentication & Security:** Clerk Auth, Stateless JWT, Google OAuth 2.0, Passwordless Email OTP, Rate Limiting, RBAC
-* **Payment Systems:** Razorpay Gateway with Server-Authoritative HMAC SHA-256 Signature Verification
-* **Developer Tools & Cloud:** Git, GitHub, Postman, Vercel, Render, VS Code
-
----
-
-## 🚀 Featured Projects
-
-### 1. 🧠 [StudySnap](https://studysnap-sigma.vercel.app/) — AI-Powered Study & Productivity Platform (PWA)
-> **Full-stack learning companion engineered for intelligent note-taking, AI-assisted revision, and offline-first productivity.**
-
-* **Problem Solved:** Overcomes fragmented study workflows by unifying lecture note capture, AI-driven summarization, automated quiz/flashcard generation, and spaced repetition tracking within a single application.
-* **Key Implemented Features:**
-  * **AI Inference Pipeline:** Integrates Groq Cloud running LLaMA-3.1 for structured markdown summarization, interactive concept tutoring, and automated MCQ generation.
-  * **Spaced Repetition Scheduler:** Implements an algorithmic revision tracker with recall difficulty ratings (Easy, Medium, Hard) and continuous study streak analytics.
-  * **Offline PWA Architecture:** Engineered as a Progressive Web App (PWA) with service workers and local caching for resilient offline document access.
-  * **Secure Auth & Data Layer:** Implements Clerk authentication with webhook synchronization and a PostgreSQL backend managed through Drizzle ORM.
-* **Technology Stack:** Next.js 16, React 19, TypeScript, Express.js, PostgreSQL (Neon), Drizzle ORM, Clerk Auth, Groq API (LLaMA-3.1), PWA
-* **Links:** [⚡ Live Application](https://studysnap-sigma.vercel.app/) &nbsp;|&nbsp; [💻 Source Repository](https://github.com/surajrajput15/StudySnap)
-
----
-
-### 2. 🛍️ [Cartify](https://cartify-hub.vercel.app/) — Production-Grade E-Commerce System
-> **End-to-end commerce application with cryptographic payment verification, multi-method authentication, and protected admin workflows.**
-
-* **Problem Solved:** Addresses payment tampering vulnerabilities, session handling risks, and multi-device cart loss common in entry-level e-commerce projects.
-* **Key Implemented Features:**
-  * **Cryptographic Payment Integrity:** Fully integrated Razorpay checkout with server-authoritative price calculation and HMAC SHA-256 signature verification to prevent client-side price tampering.
-  * **Triple Authentication Flow:** Supports password authentication with bcrypt password hashing and JWT, Google OAuth with server-side ID token verification, and passwordless 6-digit OTP delivery via Brevo API.
-  * **Multi-Device Cart Sync:** Dual-layer shopping cart utilizing localStorage persistence for guests with automated server-side cart merging upon authentication.
-  * **Production Hardening:** Tiered JWT middleware separating user and admin routes, strict API rate limiting, accessible forms (ARIA-compliant), and complete SEO/AEO indexing infrastructure.
-* **Technology Stack:** React 19, Vite, Tailwind CSS 4, Node.js 18, Express 4.19, MongoDB Atlas, Mongoose, Razorpay Payments
-* **Links:** [⚡ Live Application](https://cartify-hub.vercel.app/) &nbsp;|&nbsp; [💻 Source Repository](https://github.com/surajrajput15/CARTIFY-APP)
-
----
-
-### 3. 🤖 [AI Study Buddy](https://notes-nexus-labs.vercel.app/) — Conversational AI Learning Assistant
-> **Focused AI utility for instant academic summarization, interactive flip cards, and concept extraction.**
-
-* **Problem Solved:** Provides students and researchers with a zero-friction, distraction-free tool to condense dense notes and extract active recall materials on demand.
-* **Key Implemented Features:**
-  * **Intelligent Summarization:** Leverages the Google Gemini API to distill long paragraphs, uploaded text files, and research notes into concise structured bullet points.
-  * **Active Recall Flashcards:** Automatically generates interactive flip-card study decks from user notes for immediate self-testing.
-  * **Lightweight Defensive Backend:** Serverless Python Flask backend with per-IP rate limiting, request payload bounds, and CORS allowlisting.
-* **Technology Stack:** JavaScript (ES6+), HTML5, CSS3, Python (Flask), Google Gemini API, Vercel
-* **Links:** [⚡ Live Application](https://notes-nexus-labs.vercel.app/) &nbsp;|&nbsp; [💻 Source Repository](https://github.com/surajrajput15/AI-Study-Buddy)
-
----
-
-## 💼 Experience
-
-### **AI & Emerging Technologies Intern**
-**Edunet Foundation (AICTE / IBM SkillsBuild)** &nbsp;|&nbsp; `May 2026 – Jun 2026`
-* Completed an intensive 6-week technical curriculum covering Artificial Intelligence, Agentic Systems, Cloud Computing, Cybersecurity fundamentals, and Quantum Computing concepts.
-* Utilized IBM Cloud and IBM SkillsBuild platforms to deploy cloud-backed workloads and apply theoretical AI concepts to real-world software design tasks.
-
-### **Web Development Intern**
-**ApexPlanet Software Pvt. Ltd.** &nbsp;|&nbsp; `Dec 2025 – Jan 2026`
-* Developed modular, responsive client-side interface components using modern HTML5, CSS3, and JavaScript in an agile remote environment.
-* Maintained clean code standards, performed cross-browser compatibility testing, and ensured mobile responsiveness across target viewports.
-
----
-
-## 🎓 Education
-
-* **Bachelor of Technology (B.Tech) in Computer Science & Engineering**
-  * *Institution:* Jagannath University, Jaipur
-  * *Period:* 2023 – 2027
-  * *Status:* Final Year (Ongoing)
-* **Higher Secondary Certificate (Class 12) — BSEB**
-  * *Institution:* T.S. College, Hisua
-  * *Period:* 2021 – 2023
-  * *Score:* **77.6%**
-* **Secondary School Certificate (Class 10) — BSEB**
-  * *Institution:* Inter School, Hisua
-  * *Period:* 2020 – 2021
-  * *Score:* **87.6%**
-
----
-
-## 📜 Certifications
-
-* **[Artificial Intelligence Primer](https://drive.google.com/file/d/1kEX8IxgqU9xaDbBWULdUacvtx7SBnVtv/view?usp=sharing)** — Infosys Springboard (2026)
-* **[Emerging Technologies Internship (6-Week)](https://drive.google.com/file/d/1HQZiZGNvkKlKQxNDCIlG9PI9ULKCFi2B/view?usp=sharing)** — Edunet Foundation / AICTE / IBM SkillsBuild (2026)
-* **[Virtual Internship in Cybersecurity](https://drive.google.com/file/d/1AtD06C7T5oUI-NM_bp7CKYicyidq36G-/view?usp=sharing)** — Cisco Networking Academy / AICTE (2025)
-* **[Web Development Internship Certificate](https://drive.google.com/file/d/1GyYFQDOGHaqfdZNNbTuKY1XpNmJlgF13/view?usp=sharing)** — ApexPlanet Software Pvt. Ltd. (2026)
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<a href="https://github.com/surajrajput15">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajrajput15&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=A855F7&text_color=E2E8F0&rank_icon=github" alt="GitHub Stats" width="48%" />
-</a>
-&nbsp;
-<a href="https://github.com/surajrajput15">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrajput15&theme=react&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakLabel=A855F7&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="GitHub Streak Stats" width="48%" />
-</a>
+<!-- ==================== HEADER BANNER ==================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0A29,50:1E1B4B,100:312E81&height=220&section=header&text=Suraj%20Bhan%20Pratap%20Singh&fontSize=38&fontColor=A5B4FC&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20%7C%20CS%20%40%20Jagannath%20University&descAlignY=60&descSize=16&descColor=A855F7&animation=fadeIn" width="100%" alt="Header Banner" />
 
-<br>
+<!-- ==================== STATUS BADGE ==================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-4F46E5?style=flat-square" alt="Status Badge" />
+</p>
 
-<a href="https://github.com/surajrajput15">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrajput15&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=E2E8F0&langs_count=8" alt="Top Languages" width="60%" />
-</a>
+<!-- ==================== SOCIAL PILLS ==================== -->
+<p align="center">
+  <a href="https://surajrajput15.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/suraj-bhan-pratap-singh-891727293/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:surajdona2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-A855F7?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/surajrajput15" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 📫 Contact
+### 👨‍💻 About Me
 
-* **Portfolio:** [surajrajput15.vercel.app](https://surajrajput15.vercel.app/)
-* **LinkedIn:** [linkedin.com/in/suraj-bhan-pratap-singh-891727293](https://www.linkedin.com/in/suraj-bhan-pratap-singh-891727293/)
-* **Email:** [surajdona2005@gmail.com](mailto:surajdona2005@gmail.com)
-* **GitHub:** [github.com/surajrajput15](https://github.com/surajrajput15)
+```javascript
+const suraj = {
+  pronouns: "he/him",
+  role: "Full Stack Developer | AI Integration",
+  education: "B.Tech in Computer Science & Engineering",
+  university: "Jagannath University, Jaipur (2023 - 2027)",
+  status: "Final Year Undergraduate",
+  dsa: "Data Structures & Algorithms in Java",
+  experience: [
+    "AI & Emerging Tech Intern @ Edunet Foundation (IBM SkillsBuild / AICTE) — 4-Week Program (2026)",
+    "Web Development Intern @ ApexPlanet Software Pvt. Ltd. (2025 - 2026)"
+  ],
+  certifications: [
+    "Artificial Intelligence Primer — Infosys Springboard (2026)",
+    "Virtual Internship in Cybersecurity — Cisco Networking Academy (2025)",
+    "Emerging Technologies — Edunet Foundation / IBM SkillsBuild (2026)"
+  ],
+  coreFocus: [
+    "Production Full-Stack Web Applications",
+    "Applied AI & LLM Systems (Groq, Google Gemini)",
+    "Payment Gateway Security & Defensive API Design"
+  ],
+  currentStack: [
+    "Java", "TypeScript", "JavaScript", "Python", "SQL",
+    "Next.js", "React", "Node.js", "Express",
+    "PostgreSQL (Drizzle ORM)", "MongoDB", "Tailwind CSS"
+  ],
+  interests: [
+    "Building Resilient Full-Stack SaaS Products",
+    "Offline-First Progressive Web Apps (PWAs)",
+    "Cloud Architecture & System Design"
+  ],
+  openFor: [
+    "Software Development Engineer (SDE)",
+    "Full Stack Developer",
+    "AI Software Engineer"
+  ]
+};
+```
 
-<p align="center">
-  <sub>Suraj Bhan Pratap Singh · Full Stack Developer | AI Integration</sub>
+---
+
+### 🚀 Featured Projects
+
+### 🧠 StudySnap — AI-Powered Study & Productivity Platform (PWA)
+> An intelligent full-stack study companion designed for lecture summarization, AI tutoring, spaced repetition revision, and offline-first productivity.
+
+* ▪️ **AI Inference Engine:** Integrates Groq Cloud (LLaMA-3.1) for automated note summarization, interactive tutoring, and structured MCQ quiz generation.
+* ▪️ **Spaced Repetition Scheduler:** Implements an algorithmic revision tracker with recall difficulty ratings (Easy, Medium, Hard) and continuous study streak tracking.
+* ▪️ **Offline-First PWA:** Engineered as an installable Progressive Web App with service workers and local caching for resilient offline document access.
+* ▪️ **Auth & Data Layer:** Implements Clerk authentication with webhook synchronization and a PostgreSQL backend managed via Drizzle ORM.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square" alt="Clerk" />
+  <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" alt="Groq" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
 </p>
+
+<p>
+  <a href="https://github.com/surajrajput15/StudySnap" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source" />
+  </a>
+  &nbsp;
+  <a href="https://studysnap-sigma.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-6366F1?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
+---
+
+### 🛍️ Cartify — Production-Grade E-Commerce Platform
+> Robust commerce platform featuring cryptographic payment verification, multi-method authentication, and protected admin workflows.
+
+* ▪️ **Payment Integrity:** Integrated Razorpay checkout with server-authoritative price verification and HMAC SHA-256 signature validation to prevent client-side price tampering.
+* ▪️ **Triple Authentication Flow:** Implements traditional password auth with bcrypt + JWT, Google OAuth server-side ID token verification, and passwordless 6-digit OTP delivery via Brevo API.
+* ▪️ **Multi-Device Cart Sync:** Persistent guest cart with localStorage and automated server-side cart merging upon authentication across devices.
+* ▪️ **Production Hardening:** Tiered JWT middleware separating user/admin routes, strict per-IP rate limiting, ARIA accessibility, and full SEO/AEO metadata compliance.
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF" alt="Razorpay" />
+</p>
+
+<p>
+  <a href="https://github.com/surajrajput15/CARTIFY-APP" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source" />
+  </a>
+  &nbsp;
+  <a href="https://cartify-hub.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-6366F1?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
+---
+
+### 🤖 AI Study Buddy — Conversational AI Learning Assistant
+> Minimalist generative AI study utility for condensing complex learning materials and generating active recall flashcards on demand.
+
+* ▪️ **Intelligent Summarization:** Leverages the Google Gemini API to extract key concepts and distill long paragraphs or uploaded text documents into structured study notes.
+* ▪️ **Active Recall Flashcards:** Automatically generates dynamic flip-card study decks directly from user input for immediate active recall self-testing.
+* ▪️ **Defensive Serverless Backend:** Lightweight Python Flask API with per-IP rate limiting, payload size bounds, and strict CORS allowlisting.
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+<p>
+  <a href="https://github.com/surajrajput15/AI-Study-Buddy" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source" />
+  </a>
+  &nbsp;
+  <a href="https://notes-nexus-labs.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-6366F1?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
+---
+
+### 🔬 Sanjivani Diabetes Predictor — Clinical Risk Assessment Tool
+> Supervised machine learning pipeline evaluating clinical diabetes risk factors from structured diagnostic data.
+
+* ▪️ **Predictive Modeling:** Implements classification models trained on medical parameters to evaluate statistical risk probabilities for diabetes.
+* ▪️ **Data Preprocessing & Scaling:** Features rigorous statistical data cleaning, missing-value imputation, outlier treatment, and feature scaling.
+* ▪️ **Evaluation Pipeline:** Measures model performance through precision, recall, and ROC-AUC curves to ensure statistical reliability.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+<p>
+  <a href="https://github.com/surajrajput15/Sanjivani-Diabetes-Predictor" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source" />
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<br>
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq%20API-F55036?style=flat-square)
+
+<br>
+
+![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=flat-square)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/-Google%20OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
+![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+
+<br>
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=surajrajput15&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=A855F7&text_color=E2E8F0&rank_icon=github" width="48%" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrajput15&theme=react&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakLabel=A855F7&currStreakNum=E2E8F0&sideNums=E2E8F0" width="48%" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrajput15&layout=compact&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=E2E8F0&langs_count=8" width="60%" alt="Top Languages" />
+
+</div>
+
+<br>
+
+<!-- ==================== FOOTER ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:1E1B4B,100:0F0A29&height=100&section=footer" width="100%" alt="Footer Banner" />
+</div>
