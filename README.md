@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- ==================== TYPING INTRO ==================== -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1400&lines=Hey+there!+I%27m+Suraj+Bhan+Pratap+Singh+%F0%9F%91%8B+%E2%80%94+building+real+products%2C+not+tutorials+%F0%9F%9A%80;Building+Production-Grade+Full+Stack+Apps+%26+AI+Systems+%E2%9A%A1;DSA+with+Java+%7C+Secure+APIs+%7C+Scalable+Architecture+%F0%9F%9B%A1%EF%B8%8F;Turning+Ideas+Into+Shipped+Software+%F0%9F%92%BB" alt="Typing SVG" />
+</a>
+
 <!-- ==================== HEADER BANNER ==================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0A29,50:1E1B4B,100:312E81&height=220&section=header&text=Suraj%20Bhan%20Pratap%20Singh&fontSize=38&fontColor=A5B4FC&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20%7C%20CS%20%40%20Jagannath%20University&descAlignY=60&descSize=16&descColor=A855F7&animation=fadeIn" width="100%" alt="Header Banner" />
 
@@ -241,13 +246,15 @@ const suraj = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=surajrajput15&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=A855F7&text_color=E2E8F0&rank_icon=github" width="48%" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrajput15&theme=react&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakLabel=A855F7&currStreakNum=E2E8F0&sideNums=E2E8F0" width="48%" alt="GitHub Streak" />
+<img src="https://github-stats-alpha.vercel.app/api?username=surajrajput15" alt="Suraj's GitHub Stats with Profile Photo" />
 
-<br><br>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrajput15&layout=compact&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=E2E8F0&langs_count=8" width="60%" alt="Top Languages" />
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=surajrajput15&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="Suraj's Streak Stats" />
 
 </div>
 
